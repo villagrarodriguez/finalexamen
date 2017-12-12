@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,1,0,0,1,-112"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace min="30" pref="30" max="-2" attributes="0"/>
+              <Component id="tit" min="-2" pref="104" max="-2" attributes="0"/>
+              <EmptySpace min="56" pref="56" max="-2" attributes="0"/>
+              <Component id="r1" min="-2" pref="150" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="30" pref="30" max="-2" attributes="0"/>
+              <Component id="tit1" min="-2" pref="104" max="-2" attributes="0"/>
+              <EmptySpace min="56" pref="56" max="-2" attributes="0"/>
+              <Component id="r2" min="-2" pref="150" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="30" pref="30" max="-2" attributes="0"/>
+              <Component id="tit2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="56" pref="56" max="-2" attributes="0"/>
+              <Component id="r3" min="-2" pref="150" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="30" pref="30" max="-2" attributes="0"/>
+              <Component id="tit3" min="-2" pref="104" max="-2" attributes="0"/>
+              <EmptySpace min="56" pref="56" max="-2" attributes="0"/>
+              <Component id="r4" min="-2" pref="150" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+              <Component id="tit4" min="-2" pref="142" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="r5" min="-2" pref="150" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="30" pref="30" max="-2" attributes="0"/>
+              <Component id="tit5" min="-2" pref="104" max="-2" attributes="0"/>
+              <EmptySpace min="56" pref="56" max="-2" attributes="0"/>
+              <Component id="r6" min="-2" pref="150" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="30" pref="30" max="-2" attributes="0"/>
+              <Component id="tit6" min="-2" pref="104" max="-2" attributes="0"/>
+              <EmptySpace min="56" pref="56" max="-2" attributes="0"/>
+              <Component id="r7" min="-2" pref="150" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="30" pref="30" max="-2" attributes="0"/>
+              <Component id="tit7" min="-2" pref="104" max="-2" attributes="0"/>
+              <EmptySpace min="56" pref="56" max="-2" attributes="0"/>
+              <Component id="r8" min="-2" pref="150" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="30" pref="30" max="-2" attributes="0"/>
+              <Component id="tit8" min="-2" pref="104" max="-2" attributes="0"/>
+              <EmptySpace min="56" pref="56" max="-2" attributes="0"/>
+              <Component id="r9" min="-2" pref="150" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="30" pref="30" max="-2" attributes="0"/>
+              <Component id="tit9" min="-2" pref="104" max="-2" attributes="0"/>
+              <EmptySpace min="56" pref="56" max="-2" attributes="0"/>
+              <Component id="r10" min="-2" pref="150" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="40" pref="40" max="-2" attributes="0"/>
+              <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="159" pref="159" max="-2" attributes="0"/>
+              <Component id="jButton2" min="-2" pref="70" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace min="30" pref="30" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                      <Component id="tit" min="-2" pref="27" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="r1" min="-2" pref="27" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="11" pref="11" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="tit1" min="-2" pref="27" max="-2" attributes="0"/>
+                  <Component id="r2" min="-2" pref="27" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="13" pref="13" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="tit2" min="-2" pref="27" max="-2" attributes="0"/>
+                  <Component id="r3" min="-2" pref="27" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="13" pref="13" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="tit3" min="-2" pref="27" max="-2" attributes="0"/>
+                  <Component id="r4" min="-2" pref="27" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="13" pref="13" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="tit4" min="-2" pref="27" max="-2" attributes="0"/>
+                  <Component id="r5" min="-2" pref="27" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="13" pref="13" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="tit5" min="-2" pref="27" max="-2" attributes="0"/>
+                  <Component id="r6" min="-2" pref="27" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="13" pref="13" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="tit6" min="-2" pref="27" max="-2" attributes="0"/>
+                  <Component id="r7" min="-2" pref="27" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="13" pref="13" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="tit7" min="-2" pref="27" max="-2" attributes="0"/>
+                  <Component id="r8" min="-2" pref="27" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="13" pref="13" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="tit8" min="-2" pref="27" max="-2" attributes="0"/>
+                  <Component id="r9" min="-2" pref="27" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="13" pref="13" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="tit9" min="-2" pref="27" max="-2" attributes="0"/>
+                  <Component id="r10" min="-2" pref="27" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="43" pref="43" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                  <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Guardar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Salir"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="r6">
+    </Component>
+    <Component class="javax.swing.JLabel" name="tit">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nombre del Titular"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="tit1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Numero de Tarjeta"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="tit2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Fecha de Vencimiento"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="tit3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Numero de Tarjeta"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="tit4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nombre de la Ciudad"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="tit5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Equipo"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="tit6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Pantalla"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="tit7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Procesador"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="tit8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Camara"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="tit9">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Precio"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="r10">
+    </Component>
+    <Component class="javax.swing.JLabel" name="r9">
+    </Component>
+    <Component class="javax.swing.JLabel" name="r8">
+    </Component>
+    <Component class="javax.swing.JLabel" name="r7">
+    </Component>
+    <Component class="javax.swing.JLabel" name="r4">
+    </Component>
+    <Component class="javax.swing.JLabel" name="r3">
+    </Component>
+    <Component class="javax.swing.JLabel" name="r2">
+    </Component>
+    <Component class="javax.swing.JLabel" name="r1">
+    </Component>
+    <Component class="javax.swing.JLabel" name="r5">
+    </Component>
+  </SubComponents>
+</Form>
